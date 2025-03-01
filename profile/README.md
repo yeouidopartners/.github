@@ -2,4 +2,4 @@
 
 <img src="yp_logo_512.png" alt="drawing" width="150"/>
 
-[홈페이지로 놀러오세요](https://yp-lab.io/)
+[홈페이지](https://yp-lab.io/)로 놀러오세요
